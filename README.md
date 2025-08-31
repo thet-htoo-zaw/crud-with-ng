@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # crud-with-ng
 angular version 13 , api with json-server
 >>>>>>> origin/main
+# angular-practice-crud
